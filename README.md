@@ -3,8 +3,7 @@ Node.js勉強会 2014/2/8
 
 ## Slide
 
-Framework Koa
-[http://www.slideshare.net/kamiyam/nodejs-framework-koa]
+[Framework Koa](http://www.slideshare.net/kamiyam/nodejs-framework-koa)
 
 ## Sample
 
