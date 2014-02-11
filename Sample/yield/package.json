@@ -1,0 +1,11 @@
+{
+  "name": "yield_sample",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node --harmony app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+  "license": "MIT"
+}

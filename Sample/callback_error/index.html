@@ -1,0 +1,21 @@
+<script>
+  try {
+    //
+    console.log("hello !!");
+    throw new Error("error");
+  }
+  catch(e){
+    console.log(e);
+  }
+
+  try{
+    setTimeout(function(){
+      //
+      console.log("hello callback");
+      throw new Error("callback error");
+    }, 2 * 1000)
+  }
+  catch(e){
+    console.log(e);
+  }
+</script>
